@@ -1,0 +1,166 @@
+[
+    {
+        "title" : "'Round Midnight",
+        "artist" : "Thelonious Monk",
+        "genre" : ["Jazz"],
+        "year" :   1938
+        
+    },
+    {
+        "title" : "Autumn in New York",
+        "artist" : "Ella Fitzgerald",
+        "genre" : ["Jazz"],
+        "year" :  1957
+        
+    },
+    {
+        "title" : "Louis Armstrong"
+        "artist" : "Georgia on My Mind",
+        "genre" : ["Jazz"],
+        "year" :  1930
+        
+    },
+    {
+        "title" : "I Know You Know",
+        "artist" : "Esparanza Spalding",
+        "genre" : ["Jazz"],
+        "year" : 2008      
+        
+    },
+    {
+        "title" : "Femme Fatale",
+        "artist" : "Sir Chloe",
+        "genre" : ["Indie Rock", "Alternative Rock"],
+        "year" : 2021
+        
+    },
+    {
+        "title" : "Too Close",
+        "artist" : "Sir Chloe",
+        "genre" : ["Indie Rock", "Alternative Rock"],
+        "year" : 2020
+        
+    },
+    {
+        "title" : "Easy on You",
+        "artist" : "Sir Chloe",
+        "genre" : ["Indie Rock", "Alternative Rock"],
+        "year" : 2020
+        
+    },
+    {
+        "title" : "Kilby Girl",
+        "artist" : "The Backseat Lovers",
+        "genre" : ["Indie Rock"],
+        "year" : 2019
+        
+    },
+    {
+        "title" : "Killer Queen",
+        "artist" : "Goldpark",
+        "genre" : ["Indie Rock", "Alternative Rock"],
+        "year" : 2022
+        
+    },
+    {
+        "title" : "Amsterdam",
+        "artist" : "Coldplay",
+        "genre" : ["Indie Rock", "Pop Rock", "Pop"],
+        "year" : 2002
+        
+    },
+    {
+        "title" : "Love you too much",
+        "artist" : "Lucky Daye",
+        "genre" : ["R &amp; B","Soul"],
+        "year" : 2019
+        
+    },
+    {
+        "title" : "Butterflyz",
+        "artist" : "Alicia Keys",
+        "genre" : ["R &amp; B", "Hip-hop","Soul"],
+        "year" : 2001
+        
+    },
+    {
+        "title" : "If I Ain't Got You",
+        "artist" : "Alicia Keys",
+        "genre" : ["R &amp; B","Hip-hop","Soul"],
+        "year" : 2003
+        
+    },
+    {
+        "title" : "Late Night",
+        "artist" : "Lucky Daye",
+        "genre" : ["R &amp; B","Soul"],
+        "year" : 2019
+        
+    },
+    {
+        "title" : "LALALA",
+        "artist" : "Leven Kali",
+        "genre" : ["R &amp; B", "Pop"],
+        "year" : 2020
+        
+    },
+    {
+        "title" : "Devil in a New Dress",
+        "artist" : "Kanye West",
+        "genre" : ["Hip-hop"],
+        "year" : 2010
+        
+    },
+    {
+        "title" : "Jesus Walks",
+        "artist" : "Kanye West",
+        "genre" : ["Hip-hop"],
+        "year" : 2004
+        
+    },
+    {
+        "title" : "Money Trees",
+        "artist" : "Kendrick Lamar",
+        "genre" : ["Hip-hop"],
+        "year" : 2012
+        
+    },
+    {
+        "title" : "Holy Ghost",
+        "artist" : "A$ap Rocky",
+        "genre" : ["Hip-hop"],
+        "year" : 2015
+        
+    },
+    {
+        "title" : "Deep Unknown",
+        "artist" : "Jason Channel",
+        "genre" : ["Hip-hop"],
+        "year" : 2020
+        
+    },
+    {
+        "title" : "Hit 'em up",
+        "artist" : "Tupac",
+        "genre" : ["Hip-hop"],
+        "year" : 1996
+        
+    },
+    {
+        "title" : "95.s o u t h",
+        "artist" : "J. Cole",
+        "genre" : ["Hip-hop"],
+        "year" : 2021
+        
+    },
+    {
+        "title" : "Bound 2",
+        "artist" : "Kanye West",
+        "genre" : ["Hip-hop"],
+        "year" : 2013
+        
+    }
+    
+    
+    
+]
